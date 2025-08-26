@@ -1,9 +1,9 @@
-# Project_Timeline
+<h2>Project_Timeline</h2>
 
-```
-2025 Q3  ●  **[Project A](https://google.com)**
-          │  - <a href="https://example.com/a">Project A</a>
-          │  - AI 진로 매니징 서비스 (PM 겸 풀스택)
+<pre>
+2025 Q3  ●  <strong><a href="https://google.com">AI 진로 매니징 서비스 (PM 겸 풀스택)</a></strong>
+          │  
+          │  
           │
 2025 Q2  ●  HR BANK 프로젝트 (Spring Boot 학습)
           │  
@@ -21,8 +21,8 @@
           │  - 세브란스 패혈증 데이터 EDA 및 비식별화 작업
           │
           │
-2024 Q2  ●  YourTube (24-1학기 Ybigta 컨퍼런스 프로젝트 1등 수상, 팀리드)
-          │  
+2024 Q2  ●  YourTube (Ybigta 컨퍼런스 프로젝트 1등 수상, 팀리드)
+          │  - Juga (Ybigta DE팀 프로젝트)
           │
           │
 2024 Q1  ●  스트레스 해소 AI 앱 서비스 - RENST
@@ -43,9 +43,7 @@
           │
           │
 2023 Q1  ●  (군복학) 응용정보공학 복수전공 시작
-          │  - 알츠하이머 다중분류 모델 프로젝트
+          │  - 알츠하이머 다중분류 모델 프로젝트 (고급데이터분석 수업 프로젝트)
           │
           │
-```
-
-
+</pre>
