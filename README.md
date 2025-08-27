@@ -5,7 +5,7 @@
           │  
           │  
           │
-2025 Q2  ●  <strong><a href="https://github.com/smthswt/YonZip">YonZip 프로젝트 (워크스테이션 팀 선정)</a></strong>
+2025 Q2  ●  <strong><a href="https://github.com/smthswt/YonZip">YonZip 프로젝트 (워크스테이션 팀 선정 및 수료)</a></strong>
           │  
           │
           │
@@ -15,9 +15,9 @@
           │
 2024 Q4  ●  <strong><a href="https://github.com/smthswt/My-Caly_GDG_Yonsei">MyCaly 프로젝트 (장려상 수상)</a></strong>
           │  - <strong><a href="https://github.com/ENTREE-Y-Ventures/ENTREE_EVENT">Entree_Event MVP (음성조작 레시피 서비스)</a></strong>
+          │  - Y-StartUp 창업프로그램 팀빌딩, 문제정의, MVP (수료)
           │
-          │
-2024 Q3  ●  GDG(Google Developer Group) Yonsei 개발 그룹 합류
+2024 Q3  ●  GDG(Google Developer Group) Yonsei 개발 그룹 합류 (수료)
           │  - <strong>세브란스 패혈증 환자 데이터 EDA 및 비식별화 작업</a></strong>
           │
           │
@@ -35,7 +35,7 @@
           │  - <strong><a href="https://github.com/smthswt/Group-Reservation-App-AppleYonsei">밥플 (캡스톤디자인 수업 프로젝트)</a></strong>
           │
 2023 Q3  ●  스몰머신즈 입사 (Data Analyst & Software Engineer 인턴)
-          │  - Ybigta, 연세대학교 빅데이터 학회 Data Engineer팀 합류
+          │  - Ybigta, 연세대학교 빅데이터 학회 Data Engineer팀 합류 (수료)
           │  - <strong><a href="https://cellop-smallmachines.firebaseapp.com/">Cellop Web 프로젝트 (의료기기 홈페이지)</a></strong>
           │
 2023 Q2  ●  알츠하이머 다중분류 모델 프로젝트
