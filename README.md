@@ -22,7 +22,7 @@
           │  
           │
           │
-2024 Q4  ●  <strong><a href="https://github.com/smthswt/My-Caly_GDG_Yonsei">MyCaly 프로젝트 (장려상 수상)</a></strong>
+2024 Q4  ●  <strong><a href="https://github.com/smthswt/My-Caly_GDG_Yonsei">MyCaly 프로젝트 (데모데이 장려상 수상)</a></strong>
           │  - <strong><a href="https://github.com/ENTREE-Y-Ventures/ENTREE_EVENT">Entree_Event MVP (음성조작 레시피 서비스)</a></strong>
           │  - Y-StartUp 창업프로그램 팀빌딩, 문제정의, MVP (수료)
           │
