@@ -1,5 +1,14 @@
 <h2>Project_Timeline</h2>
 
+<br>
+안녕하세요, <br>
+프로젝트 경험을 통해 한걸음씩 성장해 온 여정을 담아낸 프로젝트 타임라인 공간입니다.
+
+아이디어 기획부터 설계, 개발, 배포, 운영까지 end-to-end 과정에 주도적으로 참여하며,
+비즈니스 관점과 제품 중심의 사고를 갖춘 풀스택 PO로 성장하고 있습니다.
+
+<br>
+
 <pre>
 2025 Q3  ●  <strong><a href="https://egoid-team.github.io/mvp/">AI 진로 매니징 서비스 (PM 겸 풀스택)</a></strong>
           │  
