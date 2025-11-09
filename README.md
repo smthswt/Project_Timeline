@@ -34,7 +34,7 @@
           │  - <strong><a href="https://github.com/YBIGTA/24th-de-juga">Juga (Ybigta DE팀 프로젝트)</a></strong>
           │
           │
-2024 Q1  ●  <strong><a href="https://github.com/smthswt/Stress_Measurement_Reduction">스트레스 해소 AI 앱 서비스 - RENST</a></strong>
+2024 Q1  ●  <strong><a href="https://github.com/smthswt/Stress_Measurement_Reduction">스트레스 해소 AI 앱 서비스 - RENST (엔비디아 인셉션 프로그램 선정)</a></strong>
           │  
           │
           │
